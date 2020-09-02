@@ -3,7 +3,7 @@ class Sperf < Formula
 
   desc "Datastax Enterprise and Apache Cassandra diagnostic tooling from DataStax"
   homepage "https://github.com/DataStax-Toolkit/sperf"
-  url "https://github.com/DataStax-Toolkit/sperf/archive/v0.6.4.tar.gz"
+  url "https://github.com/DataStax-Toolkit/sperf/archive/v0.6.5.tar.gz"
   sha256 "fc2138aafe31a37162cc4e236a7e0e6b14bbf8930f183686854922f5e5bdda29"
   license "Apache-2.0"
   depends_on "python@3.8"
